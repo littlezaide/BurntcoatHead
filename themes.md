@@ -53,7 +53,8 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## Home of the World's Highest Tides
 
-![img_6082](https://cloud.githubusercontent.com/assets/3923569/5492399/b2e3fea0-86b7-11e4-9767-3a4715d3c505.JPG)
+![panorama looking north](https://cloud.githubusercontent.com/assets/3923569/5492668/cb883f32-86b9-11e4-9094-9ebb58ce78da.jpg)
+![looking north](https://cloud.githubusercontent.com/assets/3923569/5492399/b2e3fea0-86b7-11e4-9767-3a4715d3c505.JPG)
 
 - what factors make Burntcoat Head the site of the world's highest tides?
 - how are tides actually measured?
