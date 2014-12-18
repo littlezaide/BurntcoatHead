@@ -27,23 +27,32 @@ The themes below are draft suggestions presented with the organizing principle o
 
 - This sign performs the function of the host of the household, welcoming guests into the house. It lets guests know that they are welcome, that their needs will be met with generosity, and informs them of any ground rules that will make their visit safe and rewarding. 
 - We introduce the visitor to the options (where they can go, what they can do) and prepare them for the experience they are about to have.
-- if possible, should include tidal table for the day (even on paper)
+- includes:
+	- tidal schedule, on paper or using a set of pre-printed numbers (like figure skating judges holding up signs). Answers the question: when can I see the next low tide?
+	- orientation map showing the highlights of the visitor experience (e.g. the lighthouse, the views, the stairs to the seabed)
+- position: at the trail leading from the parking lot to the lighthouse
 
 ## the Context of the Bay of Fundy
 
 - metaphor: tides as ocean breath (around 80-100km^3 of seawater entering and leaving per tidal cycle)
 - how do tides work? / physics of the seiche
-- speed of the water, both horizontally and vertically 
+
+![animation of a seiche](http://oceanservice.noaa.gov/facts/standing-wave.gif)
+
+- speed of the water: how fast does it move along the beach, how quickly does it rise vertically up the slopes of the tidal shore?
 
 ## a confluence of cycles
 
 - overlapping cycles of time and space - Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun and the earth; spans of years, months and days
+
+![causes of tides](http://www.cockpitcards.co.uk/userimages/Moon-and-Sun-Tidal-causes.jpg)
 
 ## Home of the World's Highest Tides
 
 - what factors make Burntcoat Head the site of the world's highest tides?
 - how are tides actually measured?
 - comparison of Burntcoat Head with seas elsewhere (e.g. Mediterranean, North Atlantic) and with the runner up for highest tides in Leaf Basin, Ungava Bay QC.
+- use a landscape feature to present the whole Bay of Fundy with relative average tide levels. The apex will be at Burntcoat Head. 
 
 ## the Lighthouse(s)
 
@@ -80,4 +89,3 @@ The themes below are draft suggestions presented with the organizing principle o
 	- 41km to Blomidon
 
 see IMG_6068.jpg
-
