@@ -74,7 +74,7 @@ The themes below are draft suggestions presented with the organizing principle o
 ## Mi'kmaw tradition
 
 - how did Mi'kmaq use the land? 
-- are their known uses of Burntcoat Head by the Mi'kmaq? [awaiting a discussion with Tim Bernard, director of history and culture at the Confederacy of Mainland Mi'kmaq]
+- are there known uses of Burntcoat Head by the Mi'kmaq? [awaiting a discussion with Tim Bernard, director of history and culture at the Confederacy of Mainland Mi'kmaq]
 - creation of Fundy by Kluscap's battle with Beaver 
 
 ## the view
