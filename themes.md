@@ -15,7 +15,7 @@ The themes organize how the significance of Burntcoat Head will be communicated 
 * help audiences connect varied information in site-relevant ways
 * help audiences pay attention and remember more later on
 * direct research; call up questions to be explored later on
-* provide guidance for creative decisions [by whom?]
+* provide guidance for creative decisions
 
 It is important to respect the public's time by strategically limiting the number of themes. Few themes, powerfully linked and presented concisely give visitors a powerful, memorable experience, and build a site's brand. 
 
@@ -28,14 +28,14 @@ The themes below are draft suggestions presented with the organizing principle o
 - This sign performs the function of the host of the household, welcoming guests into the house. It lets guests know that they are welcome, that their needs will be met with generosity, and informs them of any ground rules that will make their visit safe and rewarding. 
 - We introduce the visitor to the options (where they can go, what they can do) and prepare them for the experience they are about to have.
 - includes:
-	- tidal schedule, on paper or using a set of pre-printed numbers (like figure skating judges holding up signs). Answers the question: when can I see the next low tide?
+	- tidal schedule, on paper or using a set of pre-printed numbers (like figure skating judges holding up signs). Answers the question: when can I see the next low tide? ![score cards](http://www.corbisimages.com/images/Corbis-HU014806.jpg?size=67&uid=9acb6ea0-fc57-4618-945f-571100dea1f7&attachment=1)
 	- orientation map showing the highlights of the visitor experience (e.g. the lighthouse, the views, the stairs to the seabed)
 - position: at the trail leading from the parking lot to the lighthouse
 
 ## the Context of the Bay of Fundy
 
 - metaphor: tides as ocean breath (around 80-100km^3 of seawater entering and leaving per tidal cycle)
-- how do tides work? / physics of the seiche
+- how do tides work? / physics of the seiche, waves moving in opposite directions creating a standing wave
 
 ![animation of a seiche](http://oceanservice.noaa.gov/facts/standing-wave.gif)
 
