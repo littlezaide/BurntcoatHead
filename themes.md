@@ -25,6 +25,8 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## hosting / welcoming / orienting
 
+![img_6068](https://cloud.githubusercontent.com/assets/3923569/5492297/b3085986-86b6-11e4-99ce-f4c201fdde87.JPG)
+
 - This sign performs the function of the host of the household, welcoming guests into the house. It lets guests know that they are welcome, that their needs will be met with generosity, and informs them of any ground rules that will make their visit safe and rewarding. 
 - We introduce the visitor to the options (where they can go, what they can do) and prepare them for the experience they are about to have.
 - includes:
@@ -33,6 +35,8 @@ The themes below are draft suggestions presented with the organizing principle o
 - position: at the trail leading from the parking lot to the lighthouse
 
 ## the Context of the Bay of Fundy
+
+![the northwestern lookoff](https://cloud.githubusercontent.com/assets/3923569/5492526/8f383394-86b8-11e4-8bdc-61a3801b9f7a.JPG)
 
 - metaphor: tides as ocean breath (around 80-100km^3 of seawater entering and leaving per tidal cycle)
 - how do tides work? / physics of the seiche, waves moving in opposite directions creating a standing wave
@@ -49,7 +53,7 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## Home of the World's Highest Tides
 
-
+![img_6082](https://cloud.githubusercontent.com/assets/3923569/5492399/b2e3fea0-86b7-11e4-9767-3a4715d3c505.JPG)
 
 - what factors make Burntcoat Head the site of the world's highest tides?
 - how are tides actually measured?
@@ -58,8 +62,11 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## the Lighthouse(s)
 
+![the lighthouse](https://cloud.githubusercontent.com/assets/3923569/5492566/cb1c34a0-86b8-11e4-8ac4-b9e692886e84.JPG)
+
+- location: at plaza in front of lighthouse
 - the 3 different lighthouses and their purpose
-- history of the current building and its relevance to the community, after being destroyed in the 1970s and "revived" in the 1990s 
+- history of the current building and its relevance to the community, after being destroyed in the 1970s by the Dep't of Transportation and "revived" by the community in the 1990s 
 
 ## wildlife 
 
@@ -67,6 +74,7 @@ The themes below are draft suggestions presented with the organizing principle o
 	- shorebirds
 	- mollusks
 	- seaplants
+- e.g. Atlantic Mud Piddock ![Atlantic mud piddock](http://www.jaxshells.org/0116vv.jpg)
 
 ## economy
 
@@ -81,7 +89,7 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## the view
 
-![eastern view](https://cloud.githubusercontent.com/assets/3923569/5492297/b3085986-86b6-11e4-99ce-f4c201fdde87.JPG)
+![eastern view](https://cloud.githubusercontent.com/assets/3923569/5492521/7c2acdb6-86b8-11e4-9cb4-94e5129eeab4.JPG)
 
 - east of the lighthouse, there is a lookoff point looking eastward doesn the Minas Basin. 
 - We answer the question "what am I looking at, New Brunswick?" by showing a panorama of sites which a viewer can look at from the east-looking Burntcoat Head lookoff. We might consider exaggerating the topography or showing a bird's-eye or aerial photograph from the same viewpoint, to help the viewer identify the nearby sites, such as:
