@@ -49,6 +49,8 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## Home of the World's Highest Tides
 
+
+
 - what factors make Burntcoat Head the site of the world's highest tides?
 - how are tides actually measured?
 - comparison of Burntcoat Head with seas elsewhere (e.g. Mediterranean, North Atlantic) and with the runner up for highest tides in Leaf Basin, Ungava Bay QC.
