@@ -79,8 +79,10 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## the view
 
-- what am I looking at? New Brunswick?
-- We'll show a panorama of sites which a viewer can look at from the east-looking Burntcoat Head lookoff. We might consider exaggerating the topography or showing a bird's-eye or aerial photograph from the same viewpoint, to help the viewer identify the nearby sites, such as:
+![eastern view](https://cloud.githubusercontent.com/assets/3923569/5492297/b3085986-86b6-11e4-99ce-f4c201fdde87.JPG)
+
+- east of the lighthouse, there is a lookoff point looking eastward doesn the Minas Basin. 
+- We answer the question "what am I looking at, New Brunswick?" by showing a panorama of sites which a viewer can look at from the east-looking Burntcoat Head lookoff. We might consider exaggerating the topography or showing a bird's-eye or aerial photograph from the same viewpoint, to help the viewer identify the nearby sites, such as:
 
 	- 8km to Economy Point
 	- 22km to 5 Islands
@@ -88,4 +90,4 @@ The themes below are draft suggestions presented with the organizing principle o
 	- 55km to Cape Split
 	- 41km to Blomidon
 
-see IMG_6068.jpg
+
