@@ -25,19 +25,20 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## hosting / welcoming / orienting
 
-![img_6068](https://cloud.githubusercontent.com/assets/3923569/5492297/b3085986-86b6-11e4-99ce-f4c201fdde87.JPG)
+![existing entrance to site over footbridge](https://cloud.githubusercontent.com/assets/3923569/5492440/e4b1ac0c-86b7-11e4-8920-c149a6e5b0e3.JPG)
 
 - This sign performs the function of the host of the household, welcoming guests into the house. It lets guests know that they are welcome, that their needs will be met with generosity, and informs them of any ground rules that will make their visit safe and rewarding. 
 - We introduce the visitor to the options (where they can go, what they can do) and prepare them for the experience they are about to have.
 - includes:
 	- tidal schedule, on paper or using a set of pre-printed numbers (like figure skating judges holding up signs). Answers the question: when can I see the next low tide? ![score cards](http://www.corbisimages.com/images/Corbis-HU014806.jpg?size=67&uid=9acb6ea0-fc57-4618-945f-571100dea1f7&attachment=1)
 	- orientation map showing the highlights of the visitor experience (e.g. the lighthouse, the views, the stairs to the seabed)
-- position: at the trail leading from the parking lot to the lighthouse
+- location: at the trail leading from the parking lot to the lighthouse
 
 ## the Context of the Bay of Fundy
 
 ![the northwestern lookoff](https://cloud.githubusercontent.com/assets/3923569/5492526/8f383394-86b8-11e4-8bdc-61a3801b9f7a.JPG)
 
+- location: at the lighthouse look-out, giving the widest view of the Cobequid Bay
 - metaphor: tides as ocean breath (around 80-100km^3 of seawater entering and leaving per tidal cycle)
 - how do tides work? / physics of the seiche, waves moving in opposite directions creating a standing wave
 
@@ -57,9 +58,9 @@ The themes below are draft suggestions presented with the organizing principle o
 ![looking north](https://cloud.githubusercontent.com/assets/3923569/5492399/b2e3fea0-86b7-11e4-9767-3a4715d3c505.JPG)
 
 - what factors make Burntcoat Head the site of the world's highest tides?
-- how are tides actually measured?
-- comparison of Burntcoat Head with seas elsewhere (e.g. Mediterranean, North Atlantic) and with the runner up for highest tides in Leaf Basin, Ungava Bay QC.
-- use a landscape feature to present the whole Bay of Fundy with relative average tide levels. The apex will be at Burntcoat Head. 
+- how are tides actually measured? We'll show the device that measured the tides and briefly how it works. 
+- comparison of Burntcoat Head with seas elsewhere (e.g. Mediterranean, North Atlantic) and with the runner up for highest tides in Leaf Basin, Ungava Bay QC. - show the relative heights, either averages or peaks. 
+- potentially use a landscape feature to present the whole Bay of Fundy with relative average tide levels. The apex would be at Burntcoat Head. 
 
 ## the Lighthouse(s)
 
