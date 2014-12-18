@@ -84,8 +84,9 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## Mi'kmaw tradition
 
-- how did Mi'kmaq use the land? 
-- are there known uses of Burntcoat Head by the Mi'kmaq? [awaiting a discussion with Tim Bernard, director of history and culture at the Confederacy of Mainland Mi'kmaq]
+![Glooscap Creates the West Isles, by artist Art MacKay](http://bayoffundy.ca/wp-content/uploads/2010/12/GlooscapCreatesWestIsles6-1024x707.jpg)
+
+- are there known uses of Burntcoat Head by the Mi'kmaq? [stories to be developed in interview with *Tim Bernard*, director of history and culture at the Confederacy of Mainland Mi'kmaq to follow in January 2015]
 - creation of Fundy by Kluscap's battle with Beaver 
 
 ## the view
