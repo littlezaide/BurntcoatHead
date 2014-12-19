@@ -56,6 +56,8 @@ Every 206 days the Perigean (Moon coming closest to Earth) and Spring tide (sun 
 
 Every 18 years 11 days and 8 hours the moon, sun, and earth all line up in such a way as to cause the largest tides possible. Called the *Saros* cycle, the Bay's tides can be affected for weeks or even months. 
 
+Badly timed storms can push the tides even higher. Saxby Gale 2m!
+
 ## Home of the World's Highest Tides
 
 ![panorama looking north](https://cloud.githubusercontent.com/assets/3923569/5492668/cb883f32-86b9-11e4-9094-9ebb58ce78da.jpg)
