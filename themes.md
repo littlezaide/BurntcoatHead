@@ -86,6 +86,7 @@ Every 18 years 11 days and 8 hours the moon, sun, and earth all line up in such 
 
 - human use based on Fundy ecosystem
 - fishing 
+- dyking to produce farmland; because of the wide tidal range, much of the day the sea level is well below the grade of marshlands and lakes, making it ideal for draining (much faster and easier than clearing forested uplands in the 18th century). 
 
 ## Mi'kmaw tradition
 
