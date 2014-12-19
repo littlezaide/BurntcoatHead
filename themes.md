@@ -75,10 +75,12 @@ Badly timed storms can push the tides even higher. Saxby Gale of 1869 may have r
 - location: at plaza in front of lighthouse
 - the 3 different lighthouses and their purpose
 - history of the current building and its relevance to the community, after being destroyed in the 1970s by the Dep't of Transportation and "revived" by the community in the 1990s 
+- first lighthouse built in 1858 
 
 ## wildlife 
 
 - focus on a few animals and plants that thrive or are unique to the Fundy environment
+- stirring of the seabed which reveals nutrients and small creatures 4 times a day
 	- shorebirds
 	- mollusks
 	- seaplants
