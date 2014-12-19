@@ -46,11 +46,15 @@ The themes below are draft suggestions presented with the organizing principle o
 
 - speed of the water: how fast does it move along the beach, how quickly does it rise vertically up the slopes of the tidal shore?
 
-## a confluence of cycles
+## The Big Tides
 
-- overlapping cycles of time and space - Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun and the earth; spans of years, months and days
+- overlapping cycles of time and space - Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun and the earth over spans of years, months and days
 
 ![causes of tides](http://www.cockpitcards.co.uk/userimages/Moon-and-Sun-Tidal-causes.jpg)
+
+Every 206 days the Perigean (Moon coming closest to Earth) and Spring tide (sun and moon in line) cycles line up, causing  especially high high-tides. 
+
+Every 18 years 11 days and 8 hours the moon, sun, and earth all line up in such a way as to cause the largest tides possible. Called the *Saros* cycle, the Bay's tides can be affected for weeks or even months. 
 
 ## Home of the World's Highest Tides
 
@@ -78,7 +82,7 @@ The themes below are draft suggestions presented with the organizing principle o
 	- seaplants
 - e.g. Atlantic Mud Piddock ![Atlantic mud piddock](http://www.jaxshells.org/0116vv.jpg)
 
-## economy
+## human economy
 
 - human use based on Fundy ecosystem
 - fishing 
