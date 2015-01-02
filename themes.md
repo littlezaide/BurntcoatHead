@@ -58,22 +58,23 @@ The themes below are draft suggestions presented with the organizing principle o
 	6. variable position of moon, sun & earth to each other
 	7. variable distance between earth and moon
 
-
 ## The Big Tides
 
-Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun, and the earth.
+Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun, and the earth around each other. 
 
-By far, the largest effect on the height of the oceans is the twice daily change in the moon's position relative to the earth's surface. Simply put, where the moon is nearest or furthest away, the tides are highest. Where the moon is 1/4 or 3/4 of a cycle around, the tides are lowest. 
+By far, the largest effect on the height of the oceans is the twice daily change in the moon's position relative to the earth's surface. Simply put, where the moon is nearest or at its furthest point away, the tides are highest. Where the moon is 1/4 or 3/4 of a cycle around, the tides are lowest. This cycle is a little bit longer than a earth day, at 12 hours and 25 minutes.
 
 Other planetary cycles modulate those twice-daily tides, every once and a while making the high tides higher and low tides lower. 
 
 ![causes of tides](http://www.cockpitcards.co.uk/userimages/Moon-and-Sun-Tidal-causes.jpg)
 
-Spring tides: The sun also exerts a pull on the oceans, though its pull is weaker than the moon's. When the sun and moon are in line with the earth, the tides are higher than normal because the gravitational pull of the moon and sun add up, and these are called spring tides. They are so called because the tides jump even higher, like a metal coil when released (and not having anything to do with the season). 
+Spring tides: The sun also exerts a pull on the oceans, though its pull is weaker than the moon's. When the sun and moon are in line with the earth, the tides are higher than normal because the gravitational pull of the moon and sun add up, and these are called spring tides. They are so called because the tides jump higher, like a metal coil when released (and not having anything to do with the season). 
 
-Perigean tides: The moon's orbit around the earth is elliptic, meaning the moon approaches the earth twice in its cycle. Where the moon is closest to the earth, its gravitational pull is stronger, and tides are higher. 
+Perigean tides: As the moon orbits the earth every 27.322 days, it becomes closer to the earth twice in the cycle. Where the moon is closest to the earth, its gravitational pull is stronger, and tides are higher. 
 
-Every 206 days the Perigean (Moon coming closest to Earth) and Spring tide (sun and moon in line) cycles line up, causing  especially high high-tides. 
+Declination of the moon: as the moon rotates around the earth, its distance to earth's the equator changes, moving north 23.5deg, and then south 23.5deg. When the moon is closest to the equator, higher tides occur. 
+
+Every 206 days the Perigean (Moon coming closest to Earth) and Spring tide (sun and moon in line) cycles line up. Because the 2 effects are additive, the tides become higher. 
 
 Every 18 years 11 days and 8 hours the moon, sun, and earth all line up in such a way as to cause the largest tides possible. Called the *Saros* cycle, the Bay's tides can be affected for weeks or even months. 
 
