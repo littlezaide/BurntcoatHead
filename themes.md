@@ -73,6 +73,13 @@ Badly timed storms can push the tides even higher. Saxby Gale of 1869 may have r
 - comparison of Burntcoat Head with seas elsewhere (e.g. Mediterranean, North Atlantic) and with the runner up for highest tides in Leaf Basin, Ungava Bay QC. - show the relative heights, either averages or peaks. 
 - potentially use a landscape feature to present the whole Bay of Fundy with relative average tide levels. The apex would be at Burntcoat Head. 
 
+### other tides 
+
+- Halifax tidal range: 2.0m
+- Mediterranean generally 30cm - 1m, highest in Gulf of Gabès in Tunisia with 2.1m range
+- Vancouver 4.9m
+- Iqaluit NU 12.0m
+
 ## the Lighthouse(s)
 
 ![the lighthouse](https://cloud.githubusercontent.com/assets/3923569/5492566/cb1c34a0-86b8-11e4-8ac4-b9e692886e84.JPG)
