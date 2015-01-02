@@ -61,9 +61,17 @@ The themes below are draft suggestions presented with the organizing principle o
 
 ## The Big Tides
 
-- overlapping cycles of time and space - Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun and the earth over spans of years, months and days
+Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun, and the earth.
+
+By far, the largest effect on the height of the oceans is the twice daily change in the moon's position relative to the earth's surface. Simply put, where the moon is nearest or furthest away, the tides are highest. Where the moon is 1/4 or 3/4 of a cycle around, the tides are lowest. 
+
+Other planetary cycles modulate those twice-daily tides, every once and a while making the high tides higher and low tides lower. 
 
 ![causes of tides](http://www.cockpitcards.co.uk/userimages/Moon-and-Sun-Tidal-causes.jpg)
+
+Spring tides: The sun also exerts a pull on the oceans, though its pull is weaker than the moon's. When the sun and moon are in line with the earth, the tides are higher than normal because the gravitational pull of the moon and sun add up, and these are called spring tides. They are so called because the tides jump even higher, like a metal coil when released (and not having anything to do with the season). 
+
+Perigean tides: The moon's orbit around the earth is elliptic, meaning the moon approaches the earth twice in its cycle. Where the moon is closest to the earth, its gravitational pull is stronger, and tides are higher. 
 
 Every 206 days the Perigean (Moon coming closest to Earth) and Spring tide (sun and moon in line) cycles line up, causing  especially high high-tides. 
 
