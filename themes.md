@@ -49,6 +49,14 @@ The themes below are draft suggestions presented with the organizing principle o
 ### notes
 
 - tidal long wave moves across the bay at (on average) 200km/h 
+- enumeration of factors in storm tides, in increasing order of effect:
+	1. increasing tidal range in bay of fundy 
+	2. post-glacial sea-level rise
+	3. sun's position relative to long axis of moon's orbit
+	4. declination of moon and sun to earth's equator
+	5. atmospheric disturbance
+	6. variable position of moon, sun & earth to each other
+	7. variable distance between earth and moon
 
 
 ## The Big Tides
