@@ -46,6 +46,11 @@ The themes below are draft suggestions presented with the organizing principle o
 
 - speed of the water: how fast does it move along the beach, how quickly does it rise vertically up the slopes of the tidal shore?
 
+### notes
+
+- tidal long wave moves across the bay at (on average) 200km/h 
+
+
 ## The Big Tides
 
 - overlapping cycles of time and space - Fundy is about astronomy as much as it is about the ocean, involving the motions of the moon, the sun and the earth over spans of years, months and days
@@ -79,12 +84,23 @@ Badly timed storms can push the tides even higher. Saxby Gale of 1869 may have r
 
 ## wildlife 
 
+### theme
+
 - focus on a few animals and plants that thrive or are unique to the Fundy environment
 - stirring of the seabed which reveals nutrients and small creatures 4 times a day
 	- shorebirds
 	- mollusks
 	- seaplants
 - e.g. Atlantic Mud Piddock ![Atlantic mud piddock](http://www.jaxshells.org/0116vv.jpg)
+
+### notes
+
+- on land, the air, soil and groundwater all interact to provide for the needs of living things; in the the ocean, it's the water which provides
+- zone of shore exposed to both seawater and air twice a day
+- tidal currents bring in nutrients and sediments and also erode and continually change the seabed
+- mudflats at the head of the bay are important to migratory shorebirds and small mammals
+- concentrations of dissolved nutrients favour dense growths of algae and mussels, which feed on particles in suspension 
+- currents benefit marine organisms by dispersing eggs and larvae
 
 ## human economy
 
