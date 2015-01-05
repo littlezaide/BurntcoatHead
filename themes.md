@@ -151,5 +151,3 @@ Badly timed storms can push the tides even higher. Saxby Gale of 1869 may have r
 	- 41km to Parrsboro
 	- 55km to Cape Split
 	- 41km to Blomidon
-
-
