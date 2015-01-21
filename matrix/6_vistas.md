@@ -1,7 +1,7 @@
 Vistas
 ------
 
-You're looking northwest, towards Five Islands Provincial Park, the Town of Parrsboro and Economy Point. Burntcoat Head is one of 2 arms of the head of Bay of Fundy, called Cobequid Bay. The whole Bay of Fundy is 400km long. 
+Look way out: the whole Bay of Fundy is 400km long and reaches along SW Nova Scotia and Southern New Brunswick to touch Northern Maine. Right now, you're looking northwest at Nova Scotian sites: towards Five Islands Provincial Park, the Town of Parrsboro and Economy Point. Burntcoat Head is in one of 2 arms of the head of Bay of Fundy, called Cobequid Bay. 
 
 If it's not time for a sunset just yet, you should consider coming back when it is.
 
