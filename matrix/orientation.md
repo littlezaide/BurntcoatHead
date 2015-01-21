@@ -12,7 +12,7 @@ Welcome to Burntcoat Head. You're about to experience the world's widest tidal r
 
 ### secondary
 
-Burntcoat Head is one of many sites along the 1400km of pristine Bay of Fundy coastline.
+Burntcoat Head is one of many sites along the 1400km of pristine Bay of Fundy coastline. From Burntcoat, try Fundy Force to hear about the promise of generating energy from the massive Fundy tides. Or head to Cape Split for one of the best hikes in the province. % could avoid mentioning specific sites as they may change over time
 
 [include map of Bay of Fundy sites]
 
