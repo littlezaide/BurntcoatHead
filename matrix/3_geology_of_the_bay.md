@@ -12,6 +12,7 @@ More like a reptile than a mammal or bird, the teraterpeton has square teeth, ma
 The teraterpeton has not since been found elsewhere. As the Bay of Fundy erodes over time, more examples of life from long ago may be revealed in the mud. 
 
 - Effect of erosion on the area, “active cliffs”
+
 Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. Water-borne and wind-borne dunes filled in the fissure, forming the reddish sandstone that is now eroding.
 
 As the “continents” spread, molten lava from the earth’s core emerged and formed black basalt rock that you see at Cape Split and Cape Chignecto (Tim called it called North Mountain Basalt), as well as along the western edge of Europe (France, Iberia, etc.) and Africa, as well as the eastern edge of N & S America. 
