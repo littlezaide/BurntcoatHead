@@ -5,7 +5,7 @@ Look way out: the whole Bay of Fundy is 400km long and reaches along SW Nova Sco
 
 If it's not time for a sunset just yet, you should consider coming back when it is.
 
-## 2ndary 
+## secondary 
 
 - Trees on the site (to replace existing handpainted labels)
 - Flora & fauna 
