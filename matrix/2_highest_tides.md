@@ -9,9 +9,9 @@ Every 6 hours and 25 minutes, 100km^3 of water enters or leaves the Bay of Fundy
 
 In 1975, Guiness World Records named Burntcoat Head the site of the World’s Highest Tides. The Bay of Fundy's flow would equal 63 trillion Imperial pints of Guiness, or at least 500 times the total worldwide production of beer. 
 
-At one time, the tidal range was measured by marking the side of a pillar holding up a pier at different times. Of course it's not just a vertical distance: as the tide goes out, the bay recedes to the lowest point of land, sometimes hundreds of metres away from shore. 
+At one time, the tidal range was measured simply by marking the side of a pillar holding up a pier at different times. Of course it's not just a vertical distance: as the tide goes out, the bay recedes to the lowest point of land, sometimes hundreds of metres away from shore.
 
-Today, fortunately, we have electronic methods of measuring water which are both precise and easy to use. 
+Today, fortunately, we have electronic methods of measuring water. In 1998, hydrographers placed a water level recorders on the bottom of the ocean. The device measured pressure of the column of water above, and combined with measurements of salinity and temperature, can give a water lever precise to within centimetres. 
 
 - Volume, height, velocity at BCH
 - Comparisons to landmark
