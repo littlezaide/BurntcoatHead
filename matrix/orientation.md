@@ -11,8 +11,12 @@ Welcome to Burntcoat Head. You're about to experience the world's widest tidal r
 
 ### secondary
 
-Burntcoat Head is just one of many sites along the 1400km of pristine Bay of Fundy coastline.
+Burntcoat Head is one of many sites along the 1400km of pristine Bay of Fundy coastline.
 
-- Map of larger area showing other BoF sites
-- What to do in 6 hr interval btwn tides
-- Next tide times
+[include map of Bay of Fundy sites]
+
+The tide in the Bay of Fundy moves from lowest to highest every 6 hours and 25 minutes. There are 2 high and 2 low tides daily, and they occur at different times from day-to-day. 
+
+Burntcoat Head is best viewed at mid- or low- tide. For the chance to walk on the sea floor (temporarily ... until the sea takes it back), visit at the next low tide. Even at high tide, the view is still spectacular. Go for a sandwhich and come back - and see just how dramatically the water level has changed. 
+
+[include tide-time chart]
