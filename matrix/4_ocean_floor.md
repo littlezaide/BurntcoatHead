@@ -1,4 +1,3 @@
-
 The Ocean Floor/Ecology
 -----------------------
 
@@ -6,6 +5,6 @@ The Ocean Floor/Ecology
 - How far out the tide goes
 - What’s here? pinnock, plovers, etc.
 
-## 2ndary
+## secondary
 
 - Presence of these species is because of tidal action
