@@ -11,25 +11,25 @@ More like a reptile than a mammal or bird, the teraterpeton has square teeth, ma
 
 The teraterpeton has not since been found elsewhere. As the Bay of Fundy erodes over time, more examples of life from long ago may be revealed in the mud. 
 
-- Effect of erosion on the area, “active cliffs”
+### erosion
 
-Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. The dunes that were created around the coastal areas of the fissure gradually turned into the red sandstone that we see today. 
-
-Water filled in the bay just 9000 years ago. Before that, you could keep your socks dry when walking from Parrsboro to Kentville. 
+The shore at Burntcoat Head is made of relatively soft stuff - th eunique red sandstone. 
 
 - Flowerpot formation 
 
 ## secondary
 
-- How B of F was formed
-- What kind of rocks, aeg
+### how the bay was made
+
+Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. The dunes that were created around the coastal areas of the fissure gradually turned into the soft red sandstone that we see today eroding along the Burntcoat Head shoreline. 
+
+Lava from the earth's core came up through the fissure and once cooled, produced black basalt rock. It's the harder rock one can see at Cape Split and Cape Chignecto. The same rock formed the western edges of France and Spain, West Africa and eastern North and South America. 
+
+Water filled in the bay just 9000 years ago. Before that, you could easily keep your socks dry walking from Parrsboro to Kentville. 
 
 ---
 
 ## notes from Margo's meeting w/Tim Fedak
 
-As the “continents” spread, molten lava from the earth’s core emerged and formed black basalt rock that you see at Cape Split and Cape Chignecto (Tim called it called North Mountain Basalt), as well as along the western edge of Europe (France, Iberia, etc.) and Africa, as well as the eastern edge of N & S America. 
-
-About 9000 years ago (so recently! Who knew?) water filled in the fissure. Before that, one could walk from Parrsboro to Kentville. 
 
 Tim called the cliffs around Fundy “very active” and dangerous. Even a golf ball-sized piece dropping off could kill.
