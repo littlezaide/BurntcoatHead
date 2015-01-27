@@ -7,7 +7,7 @@ In 1999, a father and son walked along the shores of Burntcoat Head and made a b
 
 Say it with me: **tehra-TEHR-peton rehn-wich-OH-rum**. 
 
-More like a reptile than a mammal or bird, the teraterpeton has square teeth, making it a likely plant-eater. It's time on earth predates water being in the bay of fundy. 
+More like a reptile than a mammal or bird, the teraterpeton has square teeth, making it a likely plant-eater. Its time on earth predates water being in the bay of fundy. 
 
 The teraterpeton has not since been found elsewhere. As the Bay of Fundy erodes over time, more examples of life from long ago may be revealed in the mud. 
 
