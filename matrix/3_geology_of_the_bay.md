@@ -13,7 +13,9 @@ The teraterpeton has not since been found elsewhere. As the Bay of Fundy erodes 
 
 - Effect of erosion on the area, “active cliffs”
 
-Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. Water-borne and wind-borne dunes filled in the fissure, forming the reddish sandstone that is now eroding.
+Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. The dunes that were created around the coastal areas of the fissure gradually turned into the red sandstone that we see today. 
+
+Water filled in the bay just 9000 years ago. Before that, you could keep your socks dry when walking from Parrsboro to Kentville. 
 
 - Flowerpot formation 
 
@@ -31,4 +33,3 @@ As the “continents” spread, molten lava from the earth’s core emerged and 
 About 9000 years ago (so recently! Who knew?) water filled in the fissure. Before that, one could walk from Parrsboro to Kentville. 
 
 Tim called the cliffs around Fundy “very active” and dangerous. Even a golf ball-sized piece dropping off could kill.
-
