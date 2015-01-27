@@ -6,8 +6,6 @@ A rock-cage structure greets entrants as they enter the Burntcoat Head site from
 
 Welcome to Burntcoat Head. You're about to experience the world's widest tidal range, at its widest 17 metres (56ft) from lowest low tide to highest high tide. Take in the ever changing vista and learn a bit about the Bay of Fundy, the powerful, twice-daily tidal breath of the Atlantic Ocean. 
 
-- Guinness World Record 1975 (?)
-
 [Site map]
 
 ## secondary
