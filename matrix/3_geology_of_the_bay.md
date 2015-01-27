@@ -15,6 +15,13 @@ The teraterpeton has not since been found elsewhere. As the Bay of Fundy erodes 
 
 Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. Water-borne and wind-borne dunes filled in the fissure, forming the reddish sandstone that is now eroding.
 
+- Flowerpot formation 
+
+## secondary
+
+- How B of F was formed
+- What kind of rocks, aeg
+
 ---
 
 ## notes from Margo's meeting w/Tim Fedak
@@ -25,9 +32,3 @@ About 9000 years ago (so recently! Who knew?) water filled in the fissure. Befor
 
 Tim called the cliffs around Fundy “very active” and dangerous. Even a golf ball-sized piece dropping off could kill.
 
-- Flowerpot formation 
-
-## secondary
-
-- How B of F was formed
-- What kind of rocks, aeg
