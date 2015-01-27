@@ -14,7 +14,7 @@ Welcome to Burntcoat Head. You're about to experience the world's widest tidal r
 
 The tide in the Bay of Fundy moves from lowest to highest every 6 hours and 25 minutes. There are 2 high and 2 low tides daily, and they occur at different times from day-to-day. 
 
-Burntcoat Head is best viewed at mid- or low-tide. For the chance to explore on the sea floor — briefly, until the sea takes it back — visit at the next low tide. Even at high tide, the view is still spectacular. Go for a sandwhich and come back — and see just how dramatically the water level has changed. 
+Burntcoat Head is best viewed at mid- or low-tide. For the chance to explore on the sea floor — briefly, until the sea takes it back — visit at the next low tide. Even at high tide, the view is still spectacular. Go for a sandwich and come back — and see just how dramatically the water level has changed. 
 
 [include tide-time chart]
 
