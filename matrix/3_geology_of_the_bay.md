@@ -15,6 +15,10 @@ The teraterpeton has not since been found elsewhere. As the Bay of Fundy erodes 
 
 Before Fundy was formed, 250 million years ago, the world's continents were all joined into one landmass, called *Pangaea*. When Pangaea began to split apart, the area where Fundy is now started to sink, creating a very deep fissure. Water-borne and wind-borne dunes filled in the fissure, forming the reddish sandstone that is now eroding.
 
+---
+
+## notes from Margo's meeting w/Tim Fedak
+
 As the “continents” spread, molten lava from the earth’s core emerged and formed black basalt rock that you see at Cape Split and Cape Chignecto (Tim called it called North Mountain Basalt), as well as along the western edge of Europe (France, Iberia, etc.) and Africa, as well as the eastern edge of N & S America. 
 
 About 9000 years ago (so recently! Who knew?) water filled in the fissure. Before that, one could walk from Parrsboro to Kentville. 
