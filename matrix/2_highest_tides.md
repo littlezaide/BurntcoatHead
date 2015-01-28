@@ -1,7 +1,7 @@
 Highest Tides 
 -------------
 
-This is the cube structure which gives people a sense of scale of just how much water enters and leaves the Bay of Fundy twice daily. 
+structure: the large cube which people can walk through, giving them a sense of scale of just how much water enters and leaves the Bay of Fundy twice daily. 
 
 ## just how much water are we talking about?
 
