@@ -1,6 +1,6 @@
 # Orientation
 
-A rock-cage structure greets entrants as they enter the Burntcoat Head site from the parking lot. 
+Structure: a rock-cage structure greets entrants as they enter the Burntcoat Head site from the parking lot. 
 
 ## primary
 
