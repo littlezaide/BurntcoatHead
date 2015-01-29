@@ -13,7 +13,7 @@ However, there is one creature that has it all figured out: the *Atlantic Mud Pi
 
 # Big Mammals
 
-Larger mammals such as whales and seals love the Bay of Fundy but avoid coming into Cobequid Bay because the channels are narrow and waters move quickly. One wrong move and a whale could be beached on land when the tide goes out. Nevertheless, it is possible to see them from time to time. 
+Larger mammals such as whales and seals love the lower Bay of Fundy but avoid coming northeast into the Minas Basin and Cobequid Bay because the channels are narrow and waters move quickly. One wrong move and a whale could be beached on land when the tide goes out. Nevertheless, it is possible to see them from time to time. 
 
 # Invasion of the Semi-Palmated
 
