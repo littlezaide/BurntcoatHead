@@ -1,9 +1,9 @@
-The Ocean Floor
----------------
+# The Ocean Floor
+
 
 The tide raises and lowers the water level, but it isn't just a vertical motion. At low tide, the water moves out to the lowest area of land in the centre of the bay. That reveals some of the ocean floor twice daily, allowing you to go out onto the seabed to explore. Sometimes the water can move hundreds of metres out at low tide. Don't go too far from shore. Once the tide starts to rise again, it can move quickly and fill the bay in unpredictably. 
 
-## Holding on for Dear Life
+# Holding on for Dear Life
 
 A massive amount of water moves in and out of the bay: 100km^3 every incoming or outgoing tide. Nutrients and oxygen are stirred up and made newly available with each tidal change. Unfortunately, any sea creatures unable to hold on for dear life can't take advantage of the rich waters, especially at the top of the bay near Burntcoat. 
 
