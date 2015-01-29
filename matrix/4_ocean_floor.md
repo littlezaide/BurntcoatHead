@@ -13,4 +13,8 @@ However, there is one creature that has it all figured out: the *Atlantic Mud Pi
 
 Larger mammals such as whales and seals love the Bay of Fundy but avoid coming into Cobequid Bay because the channels are narrow and waters move quickly. One wrong move and a whale could be beached on land when the tide goes out. Nevertheless, it is possible to see them from time to time. 
 
-If you are visiting Burntcoat Head in the late summer, you could be in for a special treat: the mudflats of the Bay of Fundy are host to millions of shorebirds annually, such as plovers and sandpipers. The tiny migratory birds eat as much food as they can before making their long flight to South America; they feed mainly on mudshrimp, which come to the mud's surface in the late summer to breed. Burntcoat Head is host to tens of thousands of these birds every year. 
+If you are visiting Burntcoat Head in the late summer, you could be in for a special treat: the mudflats of the Bay of Fundy are host to millions of shorebirds annually, such as plovers and sandpipers. The tiny migratory birds eat as much food as they can before making their long flight to South America; they feed mainly on mudshrimp, which come to the mud's surface in the late summer to breed. Burntcoat Head is host to tens of thousands of these birds every year.
+
+[include: shorebird image]
+
+![shorebird example image from Minas Basin, photograper:Donald Sam](http://www.speciesatrisk.ca/fundyshorebirds/images/flockfly.jpg)
