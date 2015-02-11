@@ -15,7 +15,7 @@ Burntcoat Head Park is accessible year-round; the lighthouse museum is open June
 
 ### Burntcoat Head’s Unusual Name
 
-This settlement is located on a promontory (head) on the west side of Noel Bay. According to legend the place received its name either (1) when Thomas and Robert Faulkner were burning marsh in 1795 and lost a coat by hanging it on bushes too near the fire, or (2) when the crew of a privateer landed to spend the night, one of the men got too near the fire and set his coat ablaze, the others awakening with the cry, “Burnt coat!”
+According to legend the place received its name when original residents Thomas and Robert Faulkner were burning marsh in 1795 and hung a coat just a little to close to a fire. Another story tells of the crew of a ship landing to spend the night; one of the men got too near the fire and set his coat ablaze, the others waking to yell, “burnt coat!”
 
 As colourful as these stories are, it’s more likely that “burnt coat” is an English corruption of “Pointe Cloche,” French for “Bell Point.” We know that before 1750, Acadian settler Noel Doiron built a chapel on the west side of Noel Bay, which could have housed a bell. Many Nova Scotia place names have evolved in this way.
 
