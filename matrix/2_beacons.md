@@ -1,3 +1,21 @@
+# Beacons
+
+Location: grassy area between Welcome structure and lighthouse, with view of lighthouse Description: panels wrapped around vertically-set steel I-beam w inset wood
+
+## PRIMARY INFORMATION
+
+## A Story of Three Lighthouses
+
+Why is a lighthouse here? The settlers in this area were farmers, fishers and forresters. They used the water for transportation, so a lighthouse was required for guidance.
+
+The first lighthouse was erected in 1859 and was built on what is now the distinctive “flowerpot” island just off Burntcoat Head. Extreme tidal erosion made it necessary to relocate the lighthouse to the “main- land” in XXXX. This lighthouse operated until XXXX, until it was decommissioned and demolished by provincial authorities. At the insistence of the community, their cherished lighthouse was replicated as a non-working version on the same site, and today serves as a museum, commemorating local history.
+
+## SECONDARY INFORMATION: TIDE’S INFLUENCE
+
+These “flowerpot” formations were shaped by erosion caused by the high tides and glaciation over 600 million years.
+
+------------
+
 Beacons
 -------
 
@@ -20,7 +38,6 @@ A Postal Way Office was established under Robert Falconer on July 1, 1866.
 Farming, some lumbering and fishing are the main industries.
 
 Population in 1956 was 74. 
-
 
 ## secondary
 
