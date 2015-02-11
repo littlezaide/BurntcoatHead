@@ -1,21 +1,34 @@
-# Orientation
+# Orientation Kiosk
 
-Structure: a rock-cage structure greets entrants as they enter the Burntcoat Head site from the parking lot. 
+Location: entry to site from parking lot Description: stone gabion/burnt wood structure
 
-## primary
+## front side of structure
 
-Welcome to Burntcoat Head. You're about to experience the world's widest tidal range, at its widest 17 metres (56ft) from lowest low tide to highest high tide. Take in the ever changing vista and learn a bit about the Bay of Fundy, the powerful, twice-daily tidal breath of the Atlantic Ocean. 
+### PRIMARY INFORMATION
 
-[Site map]
+Welcome to Burntcoat Head Park, site of the world’s highest recorded tides. Here you can experience the most extreme tidal range on earth – 17 metres (56ft) at its widest, from lowest low tide to highest high tide.
+Burntcoat Head Park is accessible year-round; the lighthouse museum is open June through October. Bask in the Park’s beautiful and ever-changing vistas, explore its natural treasures, and learn about the Bay of Fundy and the powerful, twice-daily tidal breath of the Atlantic Ocean.
 
-## secondary
+[site map]
 
-The tide in the Bay of Fundy moves from lowest to highest every 6 hours and 25 minutes. There are 2 high and 2 low tides daily, and they occur at different times from day-to-day. 
+### SECONDARY INFORMATION
 
-Burntcoat Head is best viewed at mid- or low-tide. For the chance to explore on the sea floor — briefly, until the sea takes it back — visit at the next low tide. Even at high tide, the view is still spectacular. Go for a sandwich and come back — and see just how dramatically the water level has changed. 
+### Burntcoat Head’s Unusual Name
 
-[include tide-time chart]
+This settlement is located on a promontory (head) on the west side of Noel Bay. According to legend the place received its name either (1) when Thomas and Robert Faulkner were burning marsh in 1795 and lost a coat by hanging it on bushes too near the fire, or (2) when the crew of a privateer landed to spend the night, one of the men got too near the fire and set his coat ablaze, the others awakening with the cry, “Burnt coat!”
 
-Burntcoat Head is one of many sites along the 1400km of pristine Bay of Fundy coastline. Once you've taken in Burntcoat, try Fundy Force in Parrsboro to hear about the promise of generating energy from the massive Fundy tides. Or head to Cape Split for one of the best hikes in the province with a big view. <could avoid mentioning specific sites as they may change over time>
+As colourful as these stories are, it’s more likely that “burnt coat” is an English corruption of “Pointe Cloche,” French for “Bell Point.” We know that before 1750, Acadian settler Noel Doiron built a chapel on the west side of Noel Bay, which could have housed a bell. Many Nova Scotia place names have evolved in this way.
 
-[include map of Bay of Fundy sites]
+## back side of structure
+
+### PRIMARY INFO
+
+The tide in the Bay of Fundy moves from lowest to highest every 6 hours and 25 minutes. There are two high and two low tides daily, and they occur at different times from day to day.
+[include tide-time chart – possibly a chalkboard?]
+While the highest tide is Burntcoat Head’s distinction, the best chance to explore the ocean floor is at mid or low tide — briefly, until the sea takes it back. At high tide, the view is still spectacular. Go for a picnic or a hike, and when you come back you’ll see just how dramatically the water level has changed. If your timing is right, you’ll catch one of our splendid sunsets.
+
+### SECONDARY INFO
+
+Burntcoat Head is one of many sites along the 1400km of pristine Bay of Fundy coastline. Once you’ve seen Burntcoat Head, you could take in Cape Split for one of the best hikes in the province, with a breath- taking view. Or visit Fundy Force in Parrsboro to learn about generating energy from the massive Fundy tides. And the Fundy Geological Museum in Parrsboro houses amazing fossils, including the unique and ancient teraterpeton hrynewichorum, discovered right here in Burntcoat Head.
+
+[graphic indicating distances to other nearby sites]
