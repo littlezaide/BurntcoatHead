@@ -28,11 +28,9 @@ Today, fortunately, we have electronic methods of measuring water. In 1998, hydr
 
 Why does the ocean's water level move up and down daily? Oceans worldwide are affected by the gravitational pulls of both sun and moon. Actually, the air and the ground are also moved by the changing positions of earth, sun and moon, but only the ocean moves in a way which we can see and feel. 
 
-The moon's gravity does most of the work. Every 6 hours and 12.5 minutes, the moon is at one of 4 positions relative to a point on the earth:
-- directly overhead: high tide
-- one quarter past: low tide
-- at the far side of the earth: high tide
-- one quarter before: low tide
+The moon's gravity does most of the work. 
+
+Because the earth rotates, the moon's place in the sky is always changing. The moon passes over a different quarter of the earth every 6 hours & 12.5 minutes. The ocean level rises or falls, following that moon. When the moon is overhead or at the far side of the earth, we have high tides. But when the moon is a quarter away in either direction, the tide is low. 
 
 [graphic!]
 
