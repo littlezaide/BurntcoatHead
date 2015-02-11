@@ -26,7 +26,7 @@ Today, fortunately, we have electronic methods of measuring water. In 1998, hydr
 
 ## SECONDARY INFORMATION: HOW & WHY TIDES OCCUR
 
-Why does the ocean's water level move up and down daily? Oceans worldwide are affected by the gravitational pulls of both the sun and moon. Actually, the air and the ground are also moved by the changing positions of earth, sun and moon, but only the ocean moves in a way which we can see and feel. 
+Why does the ocean's water level move up and down daily? Oceans worldwide are affected by the gravitational pulls of both sun and moon. Actually, the air and the ground are also moved by the changing positions of earth, sun and moon, but only the ocean moves in a way which we can see and feel. 
 
 The moon's gravity does most of the work. Every 6 hours and 12.5 minutes, the moon is at one of 4 positions relative to a point on the earth:
 - directly overhead: high tide
@@ -36,13 +36,11 @@ The moon's gravity does most of the work. Every 6 hours and 12.5 minutes, the mo
 
 [graphic!]
 
-The oceans are more affected by the moon's gravity than the sun's, but the sun's gravity also matters. When earth, moon and sun are all in a line (called a syzygy), at both the full and new moons, the tides rise even higher at events called **spring tides**. "Spring" in this case has nothing to do with season, and everything to do with the extra *bounce* of the tides. 
-
-[wave action graphic]
+The oceans are more affected by the moon's gravity than the sun's, but the sun's gravity also matters. When earth, moon and sun are all in a line (called a syzygy), at both full and new moons, the tides rise even higher than normal. These are called **spring tides**. "Spring" in this case has nothing to do with season, and everything to do with the extra *bounce* of the tides. 
 
 ----------------------
 
-**NOTES NOTES NOTES - DO NOT INCLUDE**
+**NOTES NOTES NOTES - DO NOT UNDER ANY CIRCUMSTANCES INCLUDE IN ANY DOCUMENT **
 
 Highest Tides 
 -------------
