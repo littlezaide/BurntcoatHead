@@ -30,11 +30,11 @@ Why does the ocean's water level move up and down daily? Oceans worldwide are af
 
 The moon's gravity does most of the work. 
 
-Because the earth rotates, the moon's place in the sky is always changing. The moon passes over a different quarter of the earth every 6 hours & 12.5 minutes. The ocean level rises or falls, following that moon. When the moon is overhead or at the far side of the earth, we have high tides. But when the moon is a quarter away in either direction, the tide is low. 
+Because the earth rotates, the moon's place in the sky is always changing. The moon passes over a different quarter of the earth every 6 hours & 12.5 minutes and the ocean level rises or falls, following that moon. When the moon is overhead or at the far side of the earth, we have high tides. But when the moon is a quarter away in either direction, the tide is low. 
 
 [graphic!]
 
-The oceans are more affected by the moon's gravity than the sun's, but the sun's gravity also matters. When earth, moon and sun are all in a line (called a syzygy), at both full and new moons, the tides rise even higher than normal. These are called **spring tides**. "Spring" in this case has nothing to do with season, and everything to do with the extra *bounce* of the tides. 
+The sun's gravity also affects the ocean. Twice a month, at the new and full moons, the earth, moon and sun are all in a line. The gravity of sun and moon add up, and the tides rise even higher than normal. We call them **spring tides**, but they have nothing to do with the season, and everything to do with the extra *bounce* of the tides. 
 
 ----------------------
 
