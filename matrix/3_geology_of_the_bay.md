@@ -1,3 +1,31 @@
+# Geology of the Bay
+
+Location: orientation plaza next to lighthouse
+
+Description: panels wrapped around vertically-set steel I-beam w/inset wood
+
+## PRIMARY INFORMATION
+
+## A Lovely Creeping Thing from 220 Million Years Ago
+
+In 1999, a father and son walked along the shores of Burntcoat Head and made a big find in the mud: the skull of a creature that had never been seen before. The skull was identified as from the late Triassic period, over 220 million years ago, pre-dating dinosaurs. Today, the creature which George and Sandy Hyrnewich stumbled across is called Teraterpeton hrynewichorum: the latter part of the name is in hon- our of the discoverers, while the former name means “wonderful creeping thing” (i.e. reptile) in Greek.
+
+Say it with me: tehra-TEHR-peton rehn-wich-OH-rum.
+
+More like a reptile than a mammal or bird, teraterpeton had square teeth, making it a likely plant-eater. Its time on earth predates water being in the Bay of Fundy.
+
+Teraterpeton has not since been found anywhere else. As the Bay of Fundy coast erodes over time, more examples of life from long ago may be revealed in the mud.
+
+## SECONDARY INFORMATION: TIDE’S INFLUENCE
+
+## Erosion
+
+The shore at Burntcoat Head is made of relatively soft stuff – red sandstone. Because of this, the rock is especially vulnerable to the powerful tidal action that occurs in this part of the world. Continually washed by tides for hundreds of millions of years, the cliffs wear away, exposing mineral and fossil treasures galore.
+
+Please be careful and stay away from the cliffs when exploring along the shore; even a falling golf-ball sized piece of rock can be very dangerous.
+
+-------------------
+
 Geology of the Bay
 ------------------
 
