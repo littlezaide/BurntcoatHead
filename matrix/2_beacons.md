@@ -6,9 +6,9 @@ Location: grassy area between Welcome structure and lighthouse, with view of lig
 
 ## A Story of Three Lighthouses
 
-Why is a lighthouse here? The settlers in this area were farmers, fishers and forresters. They used the water for transportation, so a lighthouse was required for guidance.
+The farmers, fishers and foresters who were the early settlers of this area used the bay for transportation. In the 19th century, lighthouses were being built to improve navigation and make boating safer; Burntcoat Head residents petitioned the Nova Scotia governor in the 1850s to build a lighthouse for them. 
 
-The first lighthouse was erected in 1859 and was built on what is now the distinctive “flowerpot” island just off Burntcoat Head. Extreme tidal erosion made it necessary to relocate the lighthouse to the “main- land” in XXXX. This lighthouse operated until XXXX, until it was decommissioned and demolished by provincial authorities. At the insistence of the community, their cherished lighthouse was replicated as a non-working version on the same site, and today serves as a museum, commemorating local history.
+The distinctive “flowerpot” island just off Burntcoat Head. Extreme tidal erosion made it necessary to relocate the lighthouse to the “main- land” in XXXX. This lighthouse operated until XXXX, until it was decommissioned and demolished by provincial authorities. At the insistence of the community, their cherished lighthouse was replicated as a non-working version on the same site, and today serves as a museum, commemorating local history.
 
 ## SECONDARY INFORMATION: TIDE’S INFLUENCE
 
