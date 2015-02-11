@@ -23,8 +23,10 @@ As colourful as these stories are, it’s more likely that “burnt coat” is a
 
 ### PRIMARY INFO
 
-The tide in the Bay of Fundy moves from lowest to highest every 6 hours and 25 minutes. There are two high and two low tides daily, and they occur at different times from day to day.
+The tide in the Bay of Fundy moves from lowest to highest every 6 hours and 12.5 minutes. There are two high and two low tides daily, and they occur at different times from day to day.
+
 [include tide-time chart – possibly a chalkboard?]
+
 While the highest tide is Burntcoat Head’s distinction, the best chance to explore the ocean floor is at mid or low tide — briefly, until the sea takes it back. At high tide, the view is still spectacular. Go for a picnic or a hike, and when you come back you’ll see just how dramatically the water level has changed. If your timing is right, you’ll catch one of our splendid sunsets.
 
 ### SECONDARY INFO
