@@ -121,4 +121,3 @@ Has been an National Historic Site since 1923.
 - cart/trail systems
 - children's lives throughout history
 - robbery of the church bell by NWMP members, then robbery of a robbery 100 years later (1990s), then the bell reemerges, then it becomes a possible forgery (2013) 
-
