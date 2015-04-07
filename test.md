@@ -15,10 +15,10 @@ Has been an National Historic Site since 1923.
     - military entrenchments and rifle pits
     - Caron Sr. Home
 	- cellars and foundations of former buildings in East Village
-	- also: pre-contact aboriginal sites (ca. 6000 YBP)
+- also: pre-contact aboriginal sites (ca. 6000 YBP)
 - site open mid-May to mid-September
 
-## things to do (current) 
+## things to do on-site (current) 
 
 - audio-visual presentation at the visitor centre
 - self-guided tour
@@ -28,31 +28,31 @@ Has been an National Historic Site since 1923.
 
 # historical timeline 
 
-## 1. Métis settlement - to 1850 
+## 1. Métis settlement — to 1850 
 
-- **< 1850s** - French carried fur trade into the interior, marriage of French trappers with Cree and Saulteaux women, creating Métis culture.
+- **< 1850s** - French carried fur trade into the vast interior of what is now Canada. French trappers married with Cree and Saulteaux women, creating a new Métis culture.
 - **1783-1821** Métis worked for the North West Company and Hudson’s Bay.
-- **1821** Hudson’s Bay and NWC merged into HBC, putting many Métis out of work
-- **< 1821** Métis settled around Red River area
-- **> 1850** many Métis are trading independantly and competing against HBC
-- **1869** Dominion of Canada purchases *Rupert's Land* from HBC
+- **1821** Hudson’s Bay and North West Company merged into Hudson's Bay Company, putting many Métis out of work
+- **< 1821** Métis settled around Red River area in Manitoba
+- **> 1850** many Métis are trading independantly and competing against Hudson's Bay Company
+- **1869** Dominion of Canada purchases *Rupert's Land* from Hudson's Bay Company 
 
-## 2. Move to Batoche - 1880-1885 
+## 2. Move to Batoche — 1880-1885 
 
 - **1880s** Buffalo (source of food and $) dissapears due to over-hunting
 - **1872** settlement along the S Saskatchewan River, after being pushed out of Manitoba by white settlers
 - **1873** Batoche is settled
 - **1885** Batoche grows to ca. 500 population
-- **1885** Canadian Pacific railway is completed. Back in 1870, it took months to move troops into the west to respond to the Red River Rebellion. In 1885 it took just 5 days.
+- **1885** Canadian Pacific railway is completed. Back in 1870, it took months to move troops from Eastern Canada into the North-West to respond to the Red River Rebellion. In 1885 it took just 17 days.
 - **8 March 1885** - Métis pass a *Revolutionary Bill of Rights* asserting rights of possession. 
-- **March 1885** Canadian gov't sends North West Mounted Police troops west. Métis declare the Provisional Gov't of Saskatchewan (under Pierre Parenteau and Gabriel Dumont) and take up arms. 
+- **March 1885** Canadian gov't sends expedition militia troops west. Métis declare the Provisional Gov't of Saskatchewan (under Pierre Parenteau and Gabriel Dumont) and take up arms. 
 - **1885** North West Rebellion begins. Named battles include:
     1. Fish Creek
     2. Cut Knife Hill
     3. Batoche 
     4. Frenchman's Butte
 
-## 3. Battle of Batoche - 9-12 May 1885 
+## 3. Battle of Batoche — 9-12 May 1885 
 
 - **May 9** Troops sail northwards on the S Saskatchewan River to Batoche on the steamer *Northcote*. Métis lower the ferry cable at *Batoche's Crossing*, shearing the funnels and the masts off the steamer and causing a loss of steering. The Northcote drifts downstream until later that night when the damage is repaired.
 - **May 9** Middleton orders a *Zareba* built which is a rectangular defensible position dug into the ground and surrounded by meal bags and wagons.
@@ -64,7 +64,7 @@ Has been an National Historic Site since 1923.
 - several other Métis plead guilty to treason-felony and given sentences of 1-7 years, others are 
 - Riel is tried (eschewing an insanity plea) and, after two unsuccessful appeals and a medical commission on his sanity, is hanged on **16 Nov 1885**
 
-## 4. after Batoche - 1885 to today 
+## 4. after Batoche ― 1885 to today 
 
 - **1888** NW Mounted Police barracks established in Batoche
 - **1900** scrip granted to give Métis land (a deal with the devil - scrip is given in exchange for giving up aboriginal title)
@@ -95,7 +95,7 @@ Has been an National Historic Site since 1923.
 - the viewplanes and sight lines relevant to the battle such as those from the zareba to the coulee bluffs beyond the Caron House, those from the Jolie Prairie to the area of the church, rectory and cemetery, those from the Jolie Prairie to the area occupied by the Field Force near Mission Ridge, views of the river and west side from the rifle pits, Mission Ridge and the area above East Village, views of the Carlton trail from above the East Village, views of the East Village from the area of the Church;
 - the viewscapes from the East Village to lot patterns along the river and to other resources associated with the community such as the cemetery, ferry house, and the West Village.
 
-#### sub-sites:
+## sub-sites:
 
 [Jean Caron St. House](http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=4684)
 
@@ -109,7 +109,7 @@ Has been an National Historic Site since 1923.
 
 - 1885 Battle of Batoche
 - Métis community of Batoche
-- Métis river lot land use pattern vs. Dominion of Canada grid
+- Métis river lot land use pattern (linear) vs. Dominion of Canada grid
 - national significance of this place to the history of Canada.
 - considered by many to be the homeland of the Métis — holds a very strong emotional connection to most Métis in Canada
 
@@ -121,3 +121,4 @@ Has been an National Historic Site since 1923.
 - cart/trail systems
 - children's lives throughout history
 - robbery of the church bell by NWMP members, then robbery of a robbery 100 years later (1990s), then the bell reemerges, then it becomes a possible forgery (2013) 
+
