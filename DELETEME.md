@@ -2,7 +2,7 @@
 
 28 July 2015 | 1 Starr Ln., Dartmouth NS
 
-![map](https://cloud.githubusercontent.com/assets/3923569/8910244/0d0f7006-345c-11e5-9f4d-e59fd4f955c1.png)
+![map](https://cloud.githubusercontent.com/assets/3923569/8910675/7fa6bd2a-345e-11e5-98fc-83f73b136e6e.png)
 
 attending: Adam Fine, John deWolf, Rob Currie, Jane Murphy, Aynslee Kyte, Marc Léger
 
